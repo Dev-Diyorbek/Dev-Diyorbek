@@ -1,4 +1,4 @@
-<h1 style="margin-left: 40px">Assalamu alaykum ! </h1>
+<h1 align="center">Assalamu alaykum ! </h1>
 
 # 💫 About Me:
 👋 Hi, My name is Bekmurodov Muhammaddiyor.<br>👨‍💻 Currently, I am working on myself to improve my skills.<br>👀 I am Backend developer and my main programming language is Java ☕
